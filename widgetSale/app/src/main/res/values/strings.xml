@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">widgetSale</string>
+
+    <string name="heading">Will Flowers</string>
+    <string name="title">Widget Vault</string>
+    <string name="txtCnt">Number of Widgets</string>
+    <string name="btnLbl">Find Cost</string>
+    <string name="altDesc">Widget Example</string>
+    <string-array name="widgetGroup">
+        <item>Blue</item>
+        <item>Green</item>
+        <item>Yellow</item>
+        <item>Red</item>
+    </string-array>
+</resources>

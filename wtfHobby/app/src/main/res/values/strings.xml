@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">wtfHobby</string>
+    <string name="myName">Will Flowers</string>
+    <string name="btnLbl">Press Me</string>
+    <string name="hobby">Listening to Vinyl</string>
+    <string name="profileDes">Image of Will Flowers</string>
+    <string name="hobbyDes">Vinyl on a Turntable</string>
+</resources>

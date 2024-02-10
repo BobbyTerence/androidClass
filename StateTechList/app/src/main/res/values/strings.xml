@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">StateTechList</string>
+    <string name="headName">Will Flowers</string>
+    <string name="weight">State Tech Weight Room</string>
+    <string name="entrance">State Tech Entrance</string>
+    <string name="overhead">State Tech Overhead</string>
+    <string name="id_State">\@+id/state</string>
+    <string name="btnLbl">Home</string>
+</resources>

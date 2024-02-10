@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">namesProj</string>
+    <string name="stuName">Will</string>
+    <string name="momName">Mary</string>
+    <string name="dadName">Clinton</string>
+    <string name="broName">Ben</string>
+    <string name="sisName">Emma</string>
+</resources>

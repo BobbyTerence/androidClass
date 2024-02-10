@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/sisName"
+        android:layout_width="100dp"
+        android:layout_height="0dp"
+        android:layout_marginBottom="348dp"
+        android:text="@string/sisName"
+        android:textSize="24sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="@+id/momName"
+        app:layout_constraintStart_toStartOf="@+id/momName"
+        app:layout_constraintTop_toBottomOf="@+id/broName" />
+
+    <TextView
+        android:id="@+id/broName"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginBottom="15dp"
+        android:text="@string/broName"
+        android:textSize="24sp"
+        app:layout_constraintBottom_toTopOf="@+id/sisName"
+        app:layout_constraintEnd_toEndOf="@+id/sisName"
+        app:layout_constraintStart_toStartOf="@+id/sisName"
+        app:layout_constraintTop_toBottomOf="@+id/dadName" />
+
+    <TextView
+        android:id="@+id/dadName"
+        android:layout_width="100dp"
+        android:layout_height="0dp"
+        android:layout_marginBottom="12dp"
+        android:text="@string/dadName"
+        android:textSize="24sp"
+        app:layout_constraintBottom_toTopOf="@+id/broName"
+        app:layout_constraintEnd_toEndOf="@+id/broName"
+        app:layout_constraintStart_toStartOf="@+id/broName"
+        app:layout_constraintTop_toBottomOf="@+id/momName" />
+
+    <TextView
+        android:id="@+id/momName"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginStart="48dp"
+        android:layout_marginBottom="16dp"
+        android:text="@string/momName"
+        android:textSize="24sp"
+        app:layout_constraintBottom_toTopOf="@+id/dadName"
+        app:layout_constraintEnd_toStartOf="@+id/relation"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/stuName" />
+
+    <TextView
+        android:id="@+id/stuName"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginTop="138dp"
+        android:layout_marginBottom="20dp"
+        android:text="@string/stuName"
+        android:textSize="24sp"
+        app:layout_constraintBottom_toTopOf="@+id/momName"
+        app:layout_constraintEnd_toEndOf="@+id/momName"
+        app:layout_constraintStart_toStartOf="@+id/momName"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/relation"
+        android:layout_width="wrap_content"
+        android:layout_height="36dp"
+        android:layout_marginEnd="206dp"
+        android:text="Mother"
+        android:textSize="24sp"
+        app:layout_constraintBaseline_toBaselineOf="@+id/momName"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/momName" />
+</androidx.constraintlayout.widget.ConstraintLayout>

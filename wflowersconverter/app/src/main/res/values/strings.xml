@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">wflowersconverter</string>
+    <string name="name">Will Flowers</string>
+    <string name="txtTitle">Currency Converter</string>
+    <string name="hint">Enter USD Amt.</string>
+
+    <string name="euroCon">Convert to Euro</string>
+    <string name="pesoCon">Convert to Peso</string>
+    <string name="cadCon">Convert to Canadian Dollar</string>
+    <string name="randCon">Convert to South African Rand</string>
+
+    <string name="btnConvert">Convert</string>
+</resources>

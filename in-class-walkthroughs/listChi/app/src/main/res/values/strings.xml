@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">city guide</string>
+    <string name="pier">Navy Pier Image</string>
+    <string name="water">Water Tower Image</string>
+    <string name="willis"> Willis Tower</string>
+    <string name="title_activity_willis"> Willis Tower</string>
+    <string name="id_travel">\@+id/travel</string>
+</resources>

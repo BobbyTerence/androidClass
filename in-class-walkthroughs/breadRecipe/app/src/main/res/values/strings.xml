@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">breadRecipe</string>
+    <string name="title">Bruschetta Recipe</string>
+    <string name="altDesc">Recipe Image</string>
+    <string name="ing1">4 Plum Tomatoes</string>
+    <string name="ing2">6 Basil Leaves</string>
+    <string name="ing3">3 Cloves of Garlic</string>
+    <string name="btnRec">View Recipe</string>
+</resources>
