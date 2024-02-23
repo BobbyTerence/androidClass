@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">wtfFarmSounds</string>
+
+    <string name="cowDesc">Cow</string>
+    <string name="pigDesc">Pig</string>
+    <string name="chkDesc">Chicken</string>
+    <string name="name">Will Flowers</string>
+    <string name="btnChk">Chicken</string>
+    <string name="btnCow">Cow</string>
+    <string name="btnPig">Pig</string>
+</resources>

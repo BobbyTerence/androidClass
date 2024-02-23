@@ -30,3 +30,7 @@ The in class example for this is `concertTicket`
 _________
 StateTechList was the first time that we used the ListActivity class in order to create a list at runtime using an array that was created in the MainActivity class. We had to create six different list items, three of them linked to an outside page, and the other three
 switched views to an image of State Tech's campus. The in class example for this assignment is `listChi`.
+
+### wtfFarmSounds
+_________
+wtfFarmSounds was where we learned how to setup a splash screen and incorporate audio files into out applications. Upon looking into it, it seems that our book is a little outdated, as the implementation for this is to just set up the splash screen as the backgground image of a `plainText` view, so I set the background image of the activity as a whole before utilizing the `TimerTask` function to switch views. I was out of lecture for most of the week of this assignment, so I do not have the in class example to compare it to.
