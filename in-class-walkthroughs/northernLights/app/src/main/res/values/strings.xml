@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">northernLights</string>
+    <string name="action_settings">Settings</string>
+    <string name="btnStart">Start Frame Animation</string>
+    <string name="btnStop">Start Tween Animation</string>
+    <string name="imgDescription">Northern Lights Image</string>
+</resources>

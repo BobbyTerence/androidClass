@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CatfishTourney</string>
+
+    # Head on top of the first page
+    <string name="head">Cole County Catfish Tourney</string>
+
+    # Label Strings
+    <string name="fcLbl">Fish Caught:</string>
+    <string name="weight">Total Weight:</string>
+
+    # Catfish image descriptions
+    <string name="channel">Channel Catfish</string>
+    <string name="blueCate">Blue Catfish</string>
+    <string name="flathead">Flathead Catfish</string>
+</resources>

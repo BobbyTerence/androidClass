@@ -34,3 +34,19 @@ switched views to an image of State Tech's campus. The in class example for this
 ### wtfFarmSounds
 _________
 wtfFarmSounds was where we learned how to setup a splash screen and incorporate audio files into out applications. Upon looking into it, it seems that our book is a little outdated, as the implementation for this is to just set up the splash screen as the backgground image of a `plainText` view, so I set the background image of the activity as a whole before utilizing the `TimerTask` function to switch views. I was out of lecture for most of the week of this assignment, so I do not have the in class example to compare it to.
+
+### gridSounds
+________
+gridSounds was our first application using a gridView. In this project we also learned a little bit more about handling sound files and playback controls. I even made it to where the file resumes from the beginning every time you click it again. The in class example for this one is `EndangeredSpecies` class example.
+
+### CatfishTourney
+_________
+CatfishTourney was our first application where he just gave us a task to do without any specific technique. This one was a little bit more difficult as our teacher didn't really give us a clear path to come up with our solution, which was a lot more fun. I ended up using an `AlertDialog.Builder` which would create a Dialog box that allowed the user to input the weight of a catfish that they had caught. It would then compare that weight to up to three other catfish, and it would either replace the lowest weight fish, or simply add it to the list. That wasn't it though, as we had to make the option to chose from three different catfish, and their weight's would be calculated differently based on the type of fish it was. There is no in class example for this one.
+
+### animator
+__________
+animator was the first project we did to incorporate simple animations. This required us to make a few of out own .xml files to determine how the affected element would move. Overall, this was a very simple task, just a little boring because the only new thing was the animation, and how learned how to do it was not difficult at all. `northernLights` is the in class example for this assignment.
+
+### KurgerBingFinal
+_________
+This was our final project for the class, I will be creating a seperate repository for it if you would like to look at it on it's own. We ended up working together in a team setting, and our teacher wanted us to incorporated all of the different techniques we learned in the class, other than that, he did not care what the application did. The requirements in question are; a splash screen, images, links to external sources, page changes, passing information to a different page, animation, sounds, and dialog boxes. My group decided to make a Burger King spoof ordering application. This allowed you to select however many items out of three options. I worked together with two other class mates. One of them handled the Main Page, as well as setting up a majority of the data transfer system, he doesn't like commenting his code as part of some pride thing. I ended up making the other two pages, and the splash screen, as well as implementing a lot of the random requirements we needed for the application.

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">animator</string>
+    <string name="btnRotate">Rotate Animation</string>
+    <string name="btnFade">Fade Animation</string>
+    <string name="btnScale">Scale Animation</string>
+    <string name="btnTranslate">Translate Animation</string>
+    <string name="btnHome">Return Home</string>
+    <string name="name">Will Flowers</string>
+    <string name="animImg">Animated Image</string>
+    <string name="broter">Brother Bear</string>
+</resources>
